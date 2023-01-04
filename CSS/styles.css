@@ -1,0 +1,27 @@
+body,html{
+	margin:0;
+	padding:0;
+	height:100%;
+	background: #ffff !important;
+
+
+}
+
+
+.form_container{
+
+	height: auto;
+	width: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	background: #63e5ff;
+	positon: relative;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	-webkit-box-shadow: 0 4px 8px o rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	-moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radious: 5px;
+}
